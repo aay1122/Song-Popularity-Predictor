@@ -53,6 +53,7 @@ Song-Popularity-Predictor/
 │── requirements.txt
 │── README.md
 │── song prediction dataset.csv
+│── OUTPUT
 ```
 
 ---
@@ -79,11 +80,7 @@ streamlit run frontend.py
 
 ---
 
-##  Screenshots
 
-(Add your project screenshots here)
-
----
 
 ## System Workflow
 
