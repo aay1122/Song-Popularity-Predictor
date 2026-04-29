@@ -53,7 +53,7 @@ Song-Popularity-Predictor/
 │── requirements.txt
 │── README.md
 │── song prediction dataset.csv
-│── OUTPUT
+│── OUTPUT.DOCX
 ```
 
 ---
